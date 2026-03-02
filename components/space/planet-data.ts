@@ -163,12 +163,12 @@ export const PLANETS: PlanetData[] = [
       ],
     },
     gallery: [
-      { title: "City at Dawn", desc: "Golden hour over the metropolitan skyline", image: "public/photos/1(1).jpg" },
-      { title: "Milky Way Core", desc: "Long exposure from a remote mountain peak", image: "/photos/1(43).jpg" },
-      { title: "Rainy Streets", desc: "Neon reflections on wet urban pavement", image: "/photos/1(10).jpg" },
-      { title: "Dewdrop Cosmos", desc: "Macro shot of morning dew on a spider web", image: "/photos/1(11).jpg" },
-      { title: "Frozen Lake", desc: "Aerial view of geometric ice patterns", image: "/photos/1(12).jpg" },
-      { title: "Light Trails", desc: "Long exposure of city traffic at night", image: "/photos/1(13).jpg" },
+      { title: "Blue sky", desc: "afternoon hour over the metropolitan skyline", image: "/photos/1.jpg" },
+      { title: "Birds at sunset kalyani", desc: "Long exposure from a remote mountain peak", image: "/photos/2.jpg" },
+      { title: "astro plane ", desc: " night sky through plane", image: "/photos/3.jpg" },
+      { title: "sattelite city", desc: "kolkata night sky through plane", image: "/photos/4.jpg" },
+      { title: "Sunset mumbai local", desc: "aerial view of mumbai at sunset", image: "/photos/5.jpg" },
+      { title: "Sunset mumbai local on rails", desc: "evening view of mumbai local train", image: "/photos/6.jpg" },
     ],
   },
   {
@@ -188,10 +188,10 @@ export const PLANETS: PlanetData[] = [
     content: {
       title: "COMM LINK",
       items: [
-        "link:Email:mailto:hello@spaceportfolio.dev",
-        "link:GitHub:https://github.com/cosmicdev",
-        "link:LinkedIn:https://linkedin.com/in/cosmicdev",
-        "link:Twitter:https://twitter.com/cosmicdev",
+        "link:panditanurag3101@gmail.com:mailto:panditanurag3101@gmail.com",
+        "link:Github.com/Anurag-2007/:https://github.com/Anurag-2007",
+        "link:LinkedIn:https://www.linkedin.com/in/anurag-pandit-19673736a/",
+        "link:Original portfolio:https://anurag-pandit-portfolio.vercel.app/",
       ],
     },
   },
