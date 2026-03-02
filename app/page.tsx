@@ -42,7 +42,7 @@ function SpacePortfolioInner() {
   // Deep space signal easter egg: after 70-120s of exploration
   useEffect(() => {
     if (phase !== "space" || signalDismissed) return
-    const delay = 70000 + Math.random() * 50000
+    const delay = 30000 + Math.random() * 50000
     const timer = setTimeout(() => {
       setDeepSpaceSignal(true)
       sounds.play("scan")
@@ -192,7 +192,7 @@ function SpacePortfolioInner() {
               {"\"To whoever finds this signal in the void \u2014"}
             </p>
             <p className="font-mono text-sm text-foreground/60 leading-relaxed">
-              {"Every line of code is a small act of faith that someone, somewhere, will find it useful. Thank you for exploring this far.\""}
+              {"Thank you for navigating through my universe, orbiting my ideas, and docking at my creations. Until our trajectories cross again —safe travels through the cosmos.\""}
             </p>
             <div className="h-px w-full bg-gradient-to-r from-transparent via-primary/30 to-transparent" />
             <p className="font-mono text-[10px] text-muted-foreground/40 uppercase tracking-widest">
